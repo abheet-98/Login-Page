@@ -17,3 +17,5 @@ MongoDB is a cross-platform document-oriented database program. Classified as a 
 3.install node modules using command npm i or npm install<br>
 4.run server command node app.js<br>
 5.open url localhost:5000 in your browser
+
+The Project is awesome and seems to be a good tutorial for NodeJS.
